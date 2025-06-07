@@ -1,0 +1,5 @@
+# this is usually for log or auto generated files, thing that are private
+
+# ignore .txt files:
+
+*.txt
